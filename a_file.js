@@ -6,6 +6,10 @@ const data =[
     {
     name: 'pinc',
     email: 'pinchc sps'
+  },
+    {
+    name: 'priyanshu',
+    email: 'priaynshu sps'
   }
 ]
 export default data;
