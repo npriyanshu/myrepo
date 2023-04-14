@@ -1,0 +1,3 @@
+function akam (enter,a){
+
+}
