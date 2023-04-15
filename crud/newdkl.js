@@ -1,3 +1,0 @@
-function akam (enter,a){
-
-}

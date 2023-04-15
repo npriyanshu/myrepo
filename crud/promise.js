@@ -11,8 +11,17 @@ const rune =async()=> {
 
     return [a,b];
 
+} 
+// let c = rune()
+// c.then((value)=>{
+//     console.log(value[0]+value[1])
+// })
+let the = async() =>{
+    let c = await rune();
+   return c
 }
-let c = rune()
-c.then((value)=>{
-    console.log(value[0]+value[1])
+
+let a = the()
+a.then((et)=>{
+    console.log(et)
 })
