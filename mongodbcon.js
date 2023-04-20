@@ -10,4 +10,4 @@ async function dbConnect(){
     console.log(result)
     
 }
-dbConnect()
+module.exports=dbConnect;
